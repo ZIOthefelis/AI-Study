@@ -83,4 +83,4 @@ def login_page():
     
     with tab1:
         st.markdown("### Mừng bạn trở lại!")
-        email = st.text_input("Email của bạn", placeholder
+        email = st.text_input("Email của bạn", placeholder)
